@@ -1,31 +1,31 @@
-Awards,Team
-10,Boston Celtics
-8,Los Angeles Lakers
-6,Philadelphia 76ers
-6,Chicago Bulls
-5,Milwaukee Bucks
-4,Houston Rockets
-3,San Antonio Spurs
-3,Phoenix Suns
-3,Philadelphia/Golden State Warriors
-2,St. Louis Hawks (now Atlanta Hawks)
-2,Utah Jazz
-2,Cleveland Cavaliers
-2,Miami Heat
-2,Oklahoma City Thunder
-2,Denver Nuggets
-1,Cincinnati Royals (now Sacramento Kings)
-1,Baltimore Bullets (now Washington Wizards)
-1,New York Knicks
-1,Buffalo Braves (now Los Angeles Clippers)
-1,Portland Trail Blazers
-1,Minnesota Timberwolves
-1,Dallas Mavericks
-0,Brooklyn Nets
-0,Charlotte Hornets
-0,Detroit Pistons
-0,Indiana Pacers
-0,Memphis Grizzlies
-0,New Orleans Pelicans
-0,Orlando Magic
-0,Toronto Raptors
+Awards,Team,Years
+10,Boston Celtics,"1957, 1958, 1961, 1962, 1963, 1965, 1973, 1984, 1985, 1986"
+8,Los Angeles Lakers,"1976, 1977, 1980, 1987, 1989, 1990, 2000, 2008"
+6,Philadelphia 76ers,"1966, 1967, 1968, 1981, 1983, 2001"
+6,Chicago Bulls,"1988, 1991, 1992, 1996, 1998, 2011"
+5,Milwaukee Bucks,"1971, 1972, 1974, 2019, 2020"
+4,Houston Rockets,"1979, 1982, 1994, 2018"
+3,San Antonio Spurs,"1995, 2002, 2003"
+3,Phoenix Suns,"1993, 2005, 2006"
+3,Philadelphia/Golden State Warriors,"1960, 2015, 2016"
+2,St. Louis Hawks (now Atlanta Hawks),"1956, 1959"
+2,Utah Jazz,"1997, 1999"
+2,Cleveland Cavaliers,"2009, 2010"
+2,Miami Heat,"2012, 2013"
+2,Oklahoma City Thunder,"2014, 2017"
+2,Denver Nuggets,"2021, 2022"
+1,Cincinnati Royals (now Sacramento Kings),1964
+1,Baltimore Bullets (now Washington Wizards),1969
+1,New York Knicks,1970
+1,Buffalo Braves (now Los Angeles Clippers),1975
+1,Portland Trail Blazers,1978
+1,Minnesota Timberwolves,2004
+1,Dallas Mavericks,2007
+0,Brooklyn Nets,None
+0,Charlotte Hornets,None
+0,Detroit Pistons,None
+0,Indiana Pacers,None
+0,Memphis Grizzlies,None
+0,New Orleans Pelicans,None
+0,Orlando Magic,None
+0,Toronto Raptors,None
